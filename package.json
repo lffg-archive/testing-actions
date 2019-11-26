@@ -7,6 +7,7 @@
   "author": "Luiz Felipe Gonçalves <https://luizfelipe.dev>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^12.12.14",
     "eslint": "^6.7.1",
     "eslint-config-lffg": "^9.0.0"
   }
