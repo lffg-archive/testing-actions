@@ -1,2 +1,3 @@
-# testing-actions
+# Testing Actions
+
 🤔 Testing GitHub actions.
