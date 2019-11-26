@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "@lffg/testing-actions",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lffg/testing-actions.git",
+  "author": "Luiz Felipe Gonçalves <https://luizfelipe.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-lffg": "^9.0.0"
+  }
+}
